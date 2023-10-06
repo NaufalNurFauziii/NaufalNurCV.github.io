@@ -29,7 +29,7 @@ const Contact = () => {
                     </Row>
                 <br>
                 </br>
-                <Button className="thisscBtn">Source Code Ini <i class="fa-brands fa-github"></i></Button>
+                <Button className="thisscBtn" href="https://github.com/NaufalNurFauziii/NaufalNurFauziCV2.github.io">Source Code Ini <i class="fa-brands fa-github"></i></Button>
                 </Container>
             </div>
         </div>
